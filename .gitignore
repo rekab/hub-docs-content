@@ -1,0 +1,15 @@
+# Drive-mining tooling (tools/) — see tools/README.md
+tools/inputs/
+tools/work/
+tools/.venv/
+tools/.env
+tools/token.json
+tools/client_secret.json
+
+# uv
+__pycache__/
+*.pyc
+
+# editor swap files
+.*.swp
+.*.swo
